@@ -1,0 +1,36 @@
+C:\Users\Taha\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\bin\Debug\WhatsappAutoMessageSender.exe.config
+C:\Users\Taha\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\bin\Debug\WhatsappAutoMessageSender.exe
+C:\Users\Taha\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\bin\Debug\WhatsappAutoMessageSender.pdb
+C:\Users\Taha\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\bin\Debug\MetroFramework.Design.dll
+C:\Users\Taha\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\bin\Debug\MetroFramework.dll
+C:\Users\Taha\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Taha\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\bin\Debug\WebDriver.dll
+C:\Users\Taha\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\bin\Debug\WebDriver.Support.dll
+C:\Users\Taha\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\bin\Debug\WebDriver.xml
+C:\Users\Taha\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\bin\Debug\WebDriver.Support.xml
+C:\Users\Taha\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\obj\Debug\WhatsappAutoMessageSender.csprojAssemblyReference.cache
+C:\Users\Taha\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\obj\Debug\WhatsappAutoMessageSender.Main.resources
+C:\Users\Taha\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\obj\Debug\WhatsappAutoMessageSender.Properties.Resources.resources
+C:\Users\Taha\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\obj\Debug\WhatsappAutoMessageSender.csproj.GenerateResource.cache
+C:\Users\Taha\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\obj\Debug\WhatsappAutoMessageSender.csproj.CoreCompileInputs.cache
+C:\Users\Taha\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\obj\Debug\WhatsappAutoMessageSender.csproj.CopyComplete
+C:\Users\Taha\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\obj\Debug\WhatsappAutoMessageSender.exe
+C:\Users\Taha\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\obj\Debug\WhatsappAutoMessageSender.pdb
+D:\İnstagram Çalışmaları\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\bin\Debug\WhatsappAutoMessageSender.exe.config
+D:\İnstagram Çalışmaları\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\bin\Debug\WhatsappAutoMessageSender.exe
+D:\İnstagram Çalışmaları\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\bin\Debug\WhatsappAutoMessageSender.pdb
+D:\İnstagram Çalışmaları\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\bin\Debug\MetroFramework.Design.dll
+D:\İnstagram Çalışmaları\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\bin\Debug\MetroFramework.dll
+D:\İnstagram Çalışmaları\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\bin\Debug\MetroFramework.Fonts.dll
+D:\İnstagram Çalışmaları\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\bin\Debug\WebDriver.dll
+D:\İnstagram Çalışmaları\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\bin\Debug\WebDriver.Support.dll
+D:\İnstagram Çalışmaları\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\bin\Debug\WebDriver.xml
+D:\İnstagram Çalışmaları\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\bin\Debug\WebDriver.Support.xml
+D:\İnstagram Çalışmaları\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\obj\Debug\WhatsappAutoMessageSender.csprojAssemblyReference.cache
+D:\İnstagram Çalışmaları\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\obj\Debug\WhatsappAutoMessageSender.Main.resources
+D:\İnstagram Çalışmaları\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\obj\Debug\WhatsappAutoMessageSender.Properties.Resources.resources
+D:\İnstagram Çalışmaları\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\obj\Debug\WhatsappAutoMessageSender.csproj.GenerateResource.cache
+D:\İnstagram Çalışmaları\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\obj\Debug\WhatsappAutoMessageSender.csproj.CopyComplete
+D:\İnstagram Çalışmaları\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\obj\Debug\WhatsappAutoMessageSender.exe
+D:\İnstagram Çalışmaları\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\obj\Debug\WhatsappAutoMessageSender.pdb
+D:\İnstagram Çalışmaları\source\repos\WhatsappAutoMessageSender\WhatsappAutoMessageSender\obj\Debug\WhatsappAutoMessageSender.csproj.CoreCompileInputs.cache
